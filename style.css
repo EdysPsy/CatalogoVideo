@@ -1,12 +1,15 @@
 body{
-    background-color: blue;
-    color: fuchsia;
-    font-size: x-large;
 
 }
 
+header{
+    font-family:"Chakra Petch", sans-serif;
+    font-size: 40px
+   
+}
+
 section{
-    background-color: aqua;
+    background-color: rgb(rgb(174, 0, 255), green, blue);
     padding-bottom: 5%;
     padding-top: 5%;
     display: flex;
