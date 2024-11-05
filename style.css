@@ -16,7 +16,7 @@ section{
 img {
     height: 200px;
 }
-.categoria-vídeos{
+.categoria-videos{
     display: flex;
     overflow-x: auto;
     gap: 10px;
