@@ -21,10 +21,10 @@ header{
 }
 .categorias-videos img {
     height: 200px;
-    opacity: 0,5;
+    opacity: 0.5;
 }
 .categorias-videos img:hover{
-    opacity: 1,0;
+    opacity: 1.0;
     border: 1px salmon;
 }
 .categoria-videos{
