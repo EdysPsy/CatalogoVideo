@@ -4,7 +4,7 @@ body {
 }
 
 section{
-    background: #d5a39c;
+    background: rgb(0, 4, 255)
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
