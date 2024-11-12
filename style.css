@@ -30,7 +30,7 @@ header{
 .categoria-videos{
     display: flex;
     overflow-x: auto;
-    gap: 10px;
+    gap: 1px;
 }
 .lista{
     background-color: aqua;
